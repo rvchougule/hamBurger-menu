@@ -88,7 +88,7 @@ main {
   flex-direction: column;
   /* width: 80vw; */
   /* height: 80vh; */
-  max-width: 90%;
+  max-width: 80%;
 
   margin: 0 auto;
 }
@@ -110,7 +110,7 @@ main {
   flex-direction: column;
   margin: 0 auto;
   width: 65%;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
 }
 
 section img {
@@ -137,7 +137,7 @@ footer {
 
 .footer h3 {
   text-align: right;
-  text-decoration-line: underline;
+  /* text-decoration-line: underline; */
   color: #492118;
   font-weight: 700;
   margin-right: 30px;
